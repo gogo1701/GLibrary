@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1645885641 source:g:\dicelibrary\dicegame\main.cpp
+	<iostream>
+	"GBase.h"
+	"GDice.h"
+	"GNumbers.h"
+
+1645885702 g:\dicelibrary\dicegame\gbase.h
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<winuser.h>
+	<time.h>
+
+1645885666 g:\dicelibrary\dicegame\gdice.h
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<winuser.h>
+	<time.h>
+
+1645885667 g:\dicelibrary\dicegame\gnumbers.h
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<winuser.h>
+	<time.h>
+
