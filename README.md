@@ -3,8 +3,11 @@ Library for drawing console graphics in c++.
 
 ## Colors(have to be capital to work):
 BLACK
+
 BLUE
+
 GREEN
+
 RED
 
 CYAN
@@ -24,31 +27,31 @@ LIGHT_RED
 
 ## Functions in GBase.h:
 
-drawHorizontalLine(posX,posY,columns,color);
+### drawHorizontalLine(posX,posY,columns,color);
 Is used to draw horizontal lines.
 
-drawVerticalLine(posX,posY,rows,color);
+### drawVerticalLine(posX,posY,rows,color);
 Is used to draw vertical lines.
 ;
 
 ## Functions in GNumbers.h:
 
-drawNumber(can be from 0 to 9)(posX,posY,NumberSize,color);
+### drawNumber(can be from 0 to 9)(posX,posY,NumberSize,color);
 Is used to draw numbers.
 
-showNumber(posX,posY,numberSize,number,color);
+### showNumber(posX,posY,numberSize,number,color);
 Is used to draw numbers. Supports numbers from 0 to 16.
 ;
 
 ## Functions in GDice.h:
 
-drawDice(can be from 1 to 6)(posX,posY,NumberSize,color);
+### drawDice(can be from 1 to 6)(posX,posY,NumberSize,color);
 Is used to draw dice.
 
-showDice(posX,posY,number,diceSize,color);
+### showDice(posX,posY,number,diceSize,color);
 Is used to draw dice, but easier.
 
-drawBackground(posX,posY,rows,cols,color);
+### drawBackground(posX,posY,rows,cols,color);
 Is used to draw a big rectangle that is filled with the color specified.
 ;
  
