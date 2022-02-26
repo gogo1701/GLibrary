@@ -11,19 +11,29 @@ GREEN
 RED
 
 CYAN
+
 BROWN
+
 PURPLE
+
 GREY
+
 YELLOW
+
 PINK
+
 WHITE
 
 LIGHT_GREY
+
 LIGHT_BLUE
+
 LIGHT_CYAN
+
 LIGHT_GREEN
+
 LIGHT_RED
-;
+
 
 ## Functions in GBase.h:
 
@@ -32,7 +42,7 @@ Is used to draw horizontal lines.
 
 ### drawVerticalLine(posX,posY,rows,color);
 Is used to draw vertical lines.
-;
+
 
 ## Functions in GNumbers.h:
 
@@ -41,7 +51,7 @@ Is used to draw numbers.
 
 ### showNumber(posX,posY,numberSize,number,color);
 Is used to draw numbers. Supports numbers from 0 to 16.
-;
+
 
 ## Functions in GDice.h:
 
@@ -53,5 +63,5 @@ Is used to draw dice, but easier.
 
 ### drawBackground(posX,posY,rows,cols,color);
 Is used to draw a big rectangle that is filled with the color specified.
-;
+
  
