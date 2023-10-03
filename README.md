@@ -1,6 +1,7 @@
 # GLibrary
 Library for drawing console graphics in c++.
-
+# main.cpp
+With the library an example demo of a random dice game has been given. Enter the player's names and play 3 rounds of random dice to see who gets the most, but be careful if you get a 1 you will lose all of your score!
 ## Colors(have to be capital to work):
 BLACK
 
